@@ -1,19 +1,18 @@
 {
   "version": "v2",
   "meta": {
-    "title": "Genomic epidemiology of monkeypox virus",
+    "title": "Global genomic epidemiology of monkeypox virus",
     "updated": "2022-08-08",
-    "build_url": "https://github.com/nextstrain/monkeypox",
     "data_provenance": [
       {
-        "name": "GenBank",
-        "url": "https://www.ncbi.nlm.nih.gov/genbank/"
+        "name": "GISAID",
+        "url": "gisaid.org"
       }
     ],
     "maintainers": [
       {
-        "name": "Nextstrain team",
-        "url": "http://nextstrain.org"
+        "name": "Vinod Scaria Lab",
+        "url": "http://vinodscaria.genomes.in"
       }
     ],
     "display_defaults": {
